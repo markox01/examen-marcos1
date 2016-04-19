@@ -9,13 +9,10 @@ import Controlador.Controlador_FRM_Ventana;
 
 /**
  *
- * @author chelvivil
+ * @author Marko
  */
 public class FRM_Ventana extends javax.swing.JFrame {
 
-    /**
-     * Creates new form FRM_Estudiante
-     */
     Controlador_FRM_Ventana controlador;
     public FRM_Ventana() {
         initComponents();
