@@ -9,7 +9,7 @@ import Controlador.Controlador_FRM_Ventana;
 
 /**
  *
- * @author Marko
+ * @author Markox
  */
 public class FRM_Ventana extends javax.swing.JFrame {
 
